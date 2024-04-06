@@ -9,5 +9,10 @@ public class Multiplication {
 		System.out.println("Multiplication of two numbers"+(a*b));
 
 	}
+	
+	public static void mult(int a, int b) {
+		
+		System.out.println("multiplication"+(a*b));
+	}
 
 }
